@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terrence! <br/><a href="https://github.com/terrencewoodard">Cybersecurity Enthusiast </a>, <a href="https://www.linkedin.com/in/terrencewoodard/"></a></h1>
+<h1>Hi, I'm Terrence! <br/><a href="https://github.com/terrencewoodard">Cybersecurity Enthusiast </a> <a href="https://www.linkedin.com/in/terrencewoodard/"></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
