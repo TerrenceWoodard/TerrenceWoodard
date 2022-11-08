@@ -2,12 +2,12 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>PYTHON</b>
+- <b>Coding in PYTHON</b>
   - [(NMAP style) Port Scanner](https://github.com/TerrenceWoodard/PythonPortScanner.git)
   
 <b>- 🔭 I’m currently working to create an Active Directory Home Lab <b>
   
-<b>- 📚I’m currently studying for Security+ <b>
+<b>- 📚 I’m currently studying for Security+ <b>
   
 <b>- 🤪 Fun Fact... My shower voice sounds like Chris Brown <b>
 
