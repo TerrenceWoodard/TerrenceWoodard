@@ -9,7 +9,7 @@
   
 <b>- 📚 I’m currently studying for Security+ <b>
   
-<b>- 🤪 Fun Fact... My shower voice sounds like Chris Brown <b>
+<b>- 🤪 Fun Fact... My shower voice sounds identical to Chris Brown <b>
 
 
 <h2> 🤳🏾 Connect with me:</h2>
