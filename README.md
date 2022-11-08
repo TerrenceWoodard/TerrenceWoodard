@@ -5,7 +5,7 @@
 - <b>Coding in PYTHON</b>
   - [(NMAP style) Port Scanner](https://github.com/TerrenceWoodard/PythonPortScanner.git)
   
-<b>- 🔭 I’m currently working to create an Active Directory Home Lab <b>
+<b>- 🔭 I’m currently working on Vulnerability Management with Nessus Essentials <b>
   
 <b>- 📚 I’m currently studying for Security+ <b>
   
